@@ -1,0 +1,3 @@
+project=dataworks_bj_dev
+table=max_t_tmp
+columns=id:STRING,name:STRING
